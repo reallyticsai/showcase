@@ -52,9 +52,9 @@ Each vertical is a purpose-built voice agent for its specific domain:
 
 | Vertical | What It Handles | Status |
 |----------|----------------|--------|
-| **Appointify** | Appointment scheduling with calendar integration | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalyticsappointify.reallytics.ai/) |
-| **EchoTrack** | Call tracking, transcription, and analytics | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalyticsechotrack.reallytics.ai/) |
-| **Bookify** | Hotel reservations and guest services | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalyticsbookify.reallytics.ai/) |
+| **Appointify** | Appointment scheduling with calendar integration | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalytics-appointify.reallytics.ai/agent/chat/) |
+| **EchoTrack** | Call tracking, transcription, and analytics | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalytics-echotrack.reallytics.ai/agent/chat/) |
+| **Bookify** | Hotel reservations and guest services | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalytics-bookify.reallytics.ai/agent/chat/) |
 | **Remedi** | Medical receptionist — patient intake and clinical queries | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
 | **Nolan** | Financial services — account management and advisory | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
 | **Mindseed** | Educational assistant with adaptive learning | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
@@ -127,7 +127,7 @@ Our **Generative AI platform** powers intelligent chatbots, document processing 
 | **ConvoGeniQ** | Conversational AI with intelligent routing and context-aware dialogue | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
 | **NovaBots** | Multi-bot framework for deploying domain-specific assistants at scale | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
 | **Medical Speech-to-Speech** | Medical-grade real-time transcription and clinical note generation | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **RealTalk** | Real-time voice communication platform | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://realtalk.reallytics.ai/) |
+| **RealTalk** | Real-time voice communication platform | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://real-talk.reallytics.ai/) |
 
 <details>
 <summary><b>Repositories (8 private repos)</b></summary>
@@ -176,7 +176,7 @@ Our **data analytics platform** combines traditional BI with AI — users ask qu
 | Product | What It Does | Status |
 |---------|-------------|--------|
 | **Data Analytics Platform** | LLM-powered dashboards with natural language queries | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://data-analytics-platform.reallytics.ai/) |
-| **Fraud Detection** | Real-time transaction fraud scoring and dashboards | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://frauddetection.reallytics.ai/) |
+| **Fraud Detection** | Real-time transaction fraud scoring and dashboards | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://fraud-detection.reallytics.ai/) |
 | **Investment Analysis** | Time-series forecasting and portfolio optimization | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
 | **AutoRiskRating** | ML-based credit risk assessment | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
 | **IntelliTrax** | Intelligent workflow tracking and process analytics | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
@@ -315,7 +315,7 @@ Computer vision-powered fashion recommendation and virtual try-on platform. Styl
 |----------|-------------|--------|
 | **CardboardPackage** | End-to-end packaging industry management — orders, inventory, quality control | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://cardboardpackage.com/) |
 | **HeartPlace** | Healthcare patient management with ML-driven clinical insights | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://heartplace.reallytics.ai/) |
-| **Real-Talent** | AI talent management and intelligent recruiting | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://realtalent.reallytics.ai/) |
+| **Real-Talent** | AI talent management and intelligent recruiting | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://real-talent.reallytics.ai/) |
 
 <details>
 <summary><b>Repositories (8 private repos)</b></summary>
@@ -455,7 +455,24 @@ Automated customer service agents with ticket resolution, sentiment analysis, an
 
 <div align="center">
 
-**MARS** · **IBM** · **Cloud Kinetics** · **DataArt** · **AWS Startups** · **RSNA** · **4G Capital** · **Looper Insights UK** · **Tower Loan** · **Ashcroft** · **Verticiti** · **CXEX**
+<table>
+<tr>
+<td align="center" width="150"><img src="assets/logos/mars.png" width="80" alt="MARS"/><br/><sub><b>MARS Inc</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/ibm.png" width="80" alt="IBM"/><br/><sub><b>IBM</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/cloud-kinetics.png" width="80" alt="Cloud Kinetics"/><br/><sub><b>Cloud Kinetics</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/rsna.svg" width="80" alt="RSNA"/><br/><sub><b>RSNA</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150"><img src="assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/looper-insights.png" width="80" alt="Looper Insights"/><br/><sub><b>Looper Insights UK</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/tower-loan.webp" width="80" alt="Tower Loan"/><br/><sub><b>Tower Loan</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/ashcroft.png" width="80" alt="Ashcroft"/><br/><sub><b>Ashcroft</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/verticiti.png" width="80" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/cxex.png" width="80" alt="CXEX"/><br/><sub><b>CXEX</b></sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -469,7 +486,7 @@ Automated customer service agents with ticket resolution, sentiment analysis, an
 
 All repositories are private. We provide access to authorized clients and partners.
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-FF0000?style=for-the-badge)](mailto:info@reallytics.ai)
+[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-FF0000?style=for-the-badge)](https://reallytics.ai/#contact)
 [![Visit Our Website](https://img.shields.io/badge/Visit_reallytics.ai-000000?style=for-the-badge)](https://reallytics.ai/)
 
 <br/>
