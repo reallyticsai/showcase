@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Reallytics.ai+%E2%80%94+Product+Showcase;90%2B+AI+Systems.+Built.+Shipped.+Running." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Reallytics.ai+%E2%80%94+Product+Showcase;90%2B+AI+Systems.+Built.+Shipped.+Running." alt="Typing SVG" />
 
 <br/>
 
@@ -9,13 +9,13 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/reallytics.ai-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reallytics.ai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/reallytics-ai)
-[![Email](https://img.shields.io/badge/Contact_Us-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:info@reallytics.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/reallytics-ai)
+[![Contact Us](https://img.shields.io/badge/Contact_Us-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://reallytics.ai/#contact)
 
 <br/>
 
 > **All repositories listed below are private.** Source code is available to authorized clients and partners.
-> Interested in a demo or access? **[Contact us](mailto:info@reallytics.ai)**
+> Interested in a demo or access? **[Contact us](https://reallytics.ai/#contact)**
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Status-Live_in_Production-FF0000?style=for-the-badge)]()
+[![Live](https://img.shields.io/badge/Status-Live_in_Production-000000?style=for-the-badge)]()
 [![Explore](https://img.shields.io/badge/Try_It-novalytics.reallytics.ai-000000?style=for-the-badge)](https://novalytics.reallytics.ai/)
 
 </div>
@@ -55,13 +55,13 @@ Each vertical is a purpose-built voice agent for its specific domain:
 | **Appointify** | Appointment scheduling with calendar integration | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalytics-appointify.reallytics.ai/agent/chat/) |
 | **EchoTrack** | Call tracking, transcription, and analytics | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalytics-echotrack.reallytics.ai/agent/chat/) |
 | **Bookify** | Hotel reservations and guest services | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://novalytics-bookify.reallytics.ai/agent/chat/) |
-| **Remedi** | Medical receptionist — patient intake and clinical queries | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **Nolan** | Financial services — account management and advisory | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **Mindseed** | Educational assistant with adaptive learning | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **Aeris** | Energy & utilities — compliance and customer service | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **Calar** | Intelligent calendar management and scheduling | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **Taskly** | Voice-activated task management and workflows | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **Vault** | Secure document management for enterprise compliance | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
+| **Remedi** | Medical receptionist — patient intake and clinical queries | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **Nolan** | Financial services — account management and advisory | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **Mindseed** | Educational assistant with adaptive learning | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **Aeris** | Energy & utilities — compliance and customer service | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **Calar** | Intelligent calendar management and scheduling | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **Taskly** | Voice-activated task management and workflows | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **Vault** | Secure document management for enterprise compliance | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
 
 <details>
 <summary><b>Repositories (20 private repos)</b></summary>
@@ -100,7 +100,7 @@ Each vertical is a purpose-built voice agent for its specific domain:
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Status-Live_in_Production-FF0000?style=for-the-badge)]()
+[![Live](https://img.shields.io/badge/Status-Live_in_Production-000000?style=for-the-badge)]()
 [![Explore](https://img.shields.io/badge/Try_It-chatbots.reallytics.ai-000000?style=for-the-badge)](https://chatbots.reallytics.ai/)
 [![Explore](https://img.shields.io/badge/Try_It-genai.reallytics.ai-000000?style=for-the-badge)](https://gen-ai.reallytics.ai/)
 
@@ -124,9 +124,9 @@ Our **Generative AI platform** powers intelligent chatbots, document processing 
 |---------|-------------|--------|
 | **Knowledge-Driven Chatbots** | Industry-specific AI agents for customer support and internal knowledge | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://chatbots.reallytics.ai/) |
 | **Agentic AI Platform** | Document validation, RAG pipelines, and AI-driven decision support | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://gen-ai.reallytics.ai/) |
-| **ConvoGeniQ** | Conversational AI with intelligent routing and context-aware dialogue | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **NovaBots** | Multi-bot framework for deploying domain-specific assistants at scale | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **Medical Speech-to-Speech** | Medical-grade real-time transcription and clinical note generation | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
+| **ConvoGeniQ** | Conversational AI with intelligent routing and context-aware dialogue | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **NovaBots** | Multi-bot framework for deploying domain-specific assistants at scale | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **Medical Speech-to-Speech** | Medical-grade real-time transcription and clinical note generation | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
 | **RealTalk** | Real-time voice communication platform | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://real-talk.reallytics.ai/) |
 
 <details>
@@ -154,7 +154,7 @@ Our **Generative AI platform** powers intelligent chatbots, document processing 
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Status-Live_in_Production-FF0000?style=for-the-badge)]()
+[![Live](https://img.shields.io/badge/Status-Live_in_Production-000000?style=for-the-badge)]()
 [![Explore](https://img.shields.io/badge/Try_It-data--analytics--platform.reallytics.ai-000000?style=for-the-badge)](https://data-analytics-platform.reallytics.ai/)
 
 </div>
@@ -177,9 +177,9 @@ Our **data analytics platform** combines traditional BI with AI — users ask qu
 |---------|-------------|--------|
 | **Data Analytics Platform** | LLM-powered dashboards with natural language queries | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://data-analytics-platform.reallytics.ai/) |
 | **Fraud Detection** | Real-time transaction fraud scoring and dashboards | [![Live](https://img.shields.io/badge/-Live-FF0000?style=flat-square)](https://fraud-detection.reallytics.ai/) |
-| **Investment Analysis** | Time-series forecasting and portfolio optimization | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **AutoRiskRating** | ML-based credit risk assessment | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
-| **IntelliTrax** | Intelligent workflow tracking and process analytics | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](mailto:info@reallytics.ai) |
+| **Investment Analysis** | Time-series forecasting and portfolio optimization | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **AutoRiskRating** | ML-based credit risk assessment | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
+| **IntelliTrax** | Intelligent workflow tracking and process analytics | [![Demo](https://img.shields.io/badge/-Contact_for_Demo-000000?style=flat-square)](https://reallytics.ai/#contact) |
 
 <details>
 <summary><b>Repositories (6 private repos)</b></summary>
@@ -204,7 +204,7 @@ Our **data analytics platform** combines traditional BI with AI — users ask qu
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Platform-genai.reallytics.ai-FF0000?style=for-the-badge)](https://gen-ai.reallytics.ai/)
+[![Live](https://img.shields.io/badge/Platform-genai.reallytics.ai-000000?style=for-the-badge)](https://gen-ai.reallytics.ai/)
 
 </div>
 
@@ -271,7 +271,7 @@ Enterprise-grade identity verification, document validation, and regulatory comp
 - Regulatory compliance automation
 - Audit trail and reporting
 
-[![Demo](https://img.shields.io/badge/Contact_for_Demo-FF0000?style=for-the-badge)](mailto:info@reallytics.ai)
+[![Demo](https://img.shields.io/badge/Contact_for_Demo-FF0000?style=for-the-badge)](https://reallytics.ai/#contact)
 
 </td>
 <td width="33%" valign="top">
@@ -287,7 +287,7 @@ Intelligent task routing, automated prioritization, and team workload balancing.
 - Automated progress tracking
 - Smart deadline management
 
-[![Demo](https://img.shields.io/badge/Contact_for_Demo-FF0000?style=for-the-badge)](mailto:info@reallytics.ai)
+[![Demo](https://img.shields.io/badge/Contact_for_Demo-FF0000?style=for-the-badge)](https://reallytics.ai/#contact)
 
 </td>
 <td width="33%" valign="top">
@@ -303,7 +303,7 @@ Computer vision-powered fashion recommendation and virtual try-on platform. Styl
 - Personalized outfit suggestions
 - Fashion trend analysis
 
-[![Demo](https://img.shields.io/badge/Contact_for_Demo-FF0000?style=for-the-badge)](mailto:info@reallytics.ai)
+[![Demo](https://img.shields.io/badge/Contact_for_Demo-FF0000?style=for-the-badge)](https://reallytics.ai/#contact)
 
 </td>
 </tr>
@@ -462,7 +462,7 @@ Automated customer service agents with ticket resolution, sentiment analysis, an
 <td align="center" width="150"><img src="assets/logos/cloud-kinetics.png" width="80" alt="Cloud Kinetics"/><br/><sub><b>Cloud Kinetics</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/rsna.svg" width="80" alt="RSNA"/><br/><sub><b>RSNA</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/rsna.png" width="80" alt="RSNA"/><br/><sub><b>RSNA</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="150"><img src="assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
