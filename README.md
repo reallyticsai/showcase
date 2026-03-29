@@ -280,12 +280,13 @@ Enterprise-grade identity verification, document validation, and regulatory comp
 
 **AI Task Synchronization**
 
-Intelligent task routing, automated prioritization, and team workload balancing. Designed for teams managing complex, multi-stakeholder projects.
+Intelligent task routing, automated prioritization, and team workload balancing. Designed for teams managing complex, multi-stakeholder projects across distributed organizations.
 
 - AI-powered task prioritization
 - Cross-team workload balancing
 - Automated progress tracking
 - Smart deadline management
+- Resource allocation insights
 
 [![Demo](https://img.shields.io/badge/Contact_for_Demo-FF0000?style=for-the-badge)](https://reallytics.ai/#contact)
 
@@ -462,7 +463,7 @@ Automated customer service agents with ticket resolution, sentiment analysis, an
 <td align="center" width="150"><img src="assets/logos/cloud-kinetics.png" width="80" alt="Cloud Kinetics"/><br/><sub><b>Cloud Kinetics</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/rsna.png" width="80" alt="RSNA"/><br/><sub><b>RSNA</b></sub></td>
+<td align="center" width="150"><img src="https://img.shields.io/badge/RSNA-Cloud_Connect-1a5276?style=for-the-badge" alt="RSNA"/><br/><sub><b>RSNA</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="150"><img src="assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
