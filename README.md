@@ -463,7 +463,7 @@ Automated customer service agents with ticket resolution, sentiment analysis, an
 <td align="center" width="150"><img src="assets/logos/cloud-kinetics.png" width="80" alt="Cloud Kinetics"/><br/><sub><b>Cloud Kinetics</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
-<td align="center" width="150"><img src="https://img.shields.io/badge/RSNA-Cloud_Connect-1a5276?style=for-the-badge" alt="RSNA"/><br/><sub><b>RSNA</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/silvertree-brands.png" width="80" alt="Silvertree Brands"/><br/><sub><b>Silvertree Brands</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="150"><img src="assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
