@@ -471,7 +471,7 @@ Automated customer service agents with ticket resolution, sentiment analysis, an
 <td align="center" width="150"><img src="assets/logos/tower-loan.webp" width="80" alt="Tower Loan"/><br/><sub><b>Tower Loan</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/ashcroft.png" width="80" alt="Ashcroft"/><br/><sub><b>Ashcroft</b></sub></td>
 <td align="center" width="150"><img src="assets/logos/verticiti.png" width="80" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/cxex.png" width="80" alt="CXEX"/><br/><sub><b>CXEX</b></sub></td>
+<td align="center" width="150"><img src="assets/logos/raydian-cloud.png" width="80" alt="Raydian Cloud"/><br/><sub><b>Raydian Cloud</b></sub></td>
 </tr>
 </table>
 
