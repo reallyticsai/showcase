@@ -458,20 +458,20 @@ Automated customer service agents with ticket resolution, sentiment analysis, an
 
 <table>
 <tr>
-<td align="center" width="150"><img src="assets/logos/mars.png" width="80" alt="MARS"/><br/><sub><b>MARS Inc</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/ibm.png" width="80" alt="IBM"/><br/><sub><b>IBM</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/cloud-kinetics.png" width="80" alt="Cloud Kinetics"/><br/><sub><b>Cloud Kinetics</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/silvertree-brands.png" width="80" alt="Silvertree Brands"/><br/><sub><b>Silvertree Brands</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/mars.png" width="80" alt="MARS"/><br/><sub><b>MARS Inc</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/ibm.png" width="80" alt="IBM"/><br/><sub><b>IBM</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/cloud-kinetics.png" width="80" alt="Cloud Kinetics"/><br/><sub><b>Cloud Kinetics</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/dataart.png" width="80" alt="DataArt"/><br/><sub><b>DataArt</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/aws-startups.png" width="80" alt="AWS Startups"/><br/><sub><b>AWS Startups</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/silvertree-brands.png" width="80" alt="Silvertree Brands"/><br/><sub><b>Silvertree Brands</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="150"><img src="assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/looper-insights.png" width="80" alt="Looper Insights"/><br/><sub><b>Looper Insights UK</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/tower-loan.webp" width="80" alt="Tower Loan"/><br/><sub><b>Tower Loan</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/ashcroft.png" width="80" alt="Ashcroft"/><br/><sub><b>Ashcroft</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/verticiti.png" width="80" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
-<td align="center" width="150"><img src="assets/logos/raydian-cloud.png" width="80" alt="Raydian Cloud"/><br/><sub><b>Raydian Cloud</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/4g-capital.webp" width="80" alt="4G Capital"/><br/><sub><b>4G Capital</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/looper-insights.png" width="80" alt="Looper Insights"/><br/><sub><b>Looper Insights UK</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/tower-loan.webp" width="80" alt="Tower Loan"/><br/><sub><b>Tower Loan</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/ashcroft.png" width="80" alt="Ashcroft"/><br/><sub><b>Ashcroft</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/verticiti.png" width="80" alt="Verticiti"/><br/><sub><b>Verticiti</b></sub></td>
+<td align="center" valign="bottom" width="150"><img src="assets/logos/raydian-cloud.png" width="80" alt="Raydian Cloud"/><br/><sub><b>Raydian Cloud</b></sub></td>
 </tr>
 </table>
 
